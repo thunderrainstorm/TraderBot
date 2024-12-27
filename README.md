@@ -20,8 +20,6 @@ If you're getting an SSL error when you attempt to call out to the Alpaca Tradin
 3. Double click the file and run through the wizard to install it, use all of the default selections. 
 
 </br>
-# Other References 🔗
 
-<p>-<a href="github.com/Lumiwealth/lumibot)">Lumibot</a>:trading bot library, makes lifecycle stuff easier .</p>
 
 
