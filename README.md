@@ -1,7 +1,7 @@
 # TraderBot
 Build a trader bot which looks at sentiment of live news events and trades appropriately. 
 
-# Startup 🚀
+# Startup 
 1. Create a virtual environment `conda create -n trader python=3.10` 
 2. Activate it `conda activate trader`
 3. Install initial deps `pip install lumibot timedelta alpaca-trade-api==3.1.1`
